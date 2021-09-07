@@ -1,6 +1,6 @@
 # alkfejl2 gyakorlati segédanyagok
 
-## Első feladat: Módosítsd úgy a generált kódot, hogy üdvözölje a felhasználót:
+## Első feladat: Módosítsd úgy a generált kódot, hogy az üdvözölje a felhasználót:
 `
 using System;
 
